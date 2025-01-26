@@ -1,0 +1,10 @@
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio_qmlimportscan.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio_autogen_timestamp_deps.dir
+/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio_autogen.dir

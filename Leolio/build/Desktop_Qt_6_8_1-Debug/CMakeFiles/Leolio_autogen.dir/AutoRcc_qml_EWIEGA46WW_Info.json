@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/Leolio_autogen",
+	"CMAKE_BINARY_DIR" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/artemis37/Leolio",
+	"CMAKE_SOURCE_DIR" : "/home/artemis37/Leolio",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/Leolio_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/artemis37/Leolio/MainContent.qml",
+		"/home/artemis37/Leolio/Registration.qml",
+		"/home/artemis37/Leolio/main.qml",
+		"/home/artemis37/Leolio/html/index.html",
+		"/home/artemis37/Leolio/images/vortex.jpeg",
+		"/home/artemis37/Leolio/images/background.jpg"
+	],
+	"LOCK_FILE" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/artemis37/Qt/6.8.1/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/artemis37/Leolio/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/Leolio_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/artemis37/Leolio/qml.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
